@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "country": "Autriche",
+        "name": "Red Bull",
+        "budget": 240000000,
+        "description": "1er du championnat de l'année 2022 (759 pts) mais beaucoup de pénalité dû au dépassement du budget de 2021. Cela risque d'être compliqué pour eux pour cette année !",
+        "photo": "RedBullF1"
+    },
+    {
+        "id": 2,
+        "country": "Italie",
+        "name": "Ferrari",
+        "budget": 230000000,
+        "description": "2ème du championnat de l'année 2022 (554 pts). Aurait pu faire premier avec une meilleure gestion de tout. Dommage pour eux!",
+        "photo": "FerrariF1"
+    },
+    {
+        "id": 3,
+        "country": "Allemagne",
+        "name": "Mercedes",
+        "budget": 235000000,
+        "description": "3ème du championnat de l'année 2022 (515 pts). Début très difficile avec une voiture qui n'avançait pas mais belle remonté en fin de saison!",
+        "photo": "MercedesF1"
+    },
+    {
+        "id": 4,
+        "country": "France",
+        "name": "Alpine",
+        "budget": 180000000,
+        "description": "4ème du championnat de l'année 2022 (173 pts). Belle bataille remporté pour la 4ème. Well done!",
+        "photo": "AlphaTauriF1"
+    },
+    {
+        "id": 5,
+        "country": "Royaume-Uni",
+        "name": "McLaren",
+        "budget": 170000000,
+        "description": "5ème du championnat de l'année 2022 (159 pts). Bien battu pour la 4ème mais en vain à cause en parti d'un Riccardo inexistant!",
+        "photo": "McLarenF1"
+    },
+    {
+        "id": 6,
+        "country": "Suisse",
+        "name": "Alfa Romeo",
+        "budget": 150000000,
+        "description": "6ème du championnat de l'année 2022 (55 pts). Egalité avec Aston Martin. Bon début mais pas une belle fin avec une voiture qui fonctionnait moins!",
+        "photo": "AlfaRomeoF1"
+    },
+    {
+        "id": 7,
+        "country": "Royaume-Uni",
+        "name": "Aston Martin",
+        "budget": 160000000,
+        "description": "7ème du championnat de l'année 2022 (55 pts). Belle remontada à la fin avec une belle dernière saison de Vettel!",
+        "photo": "AstonMartinF1"
+    },
+    {
+        "id": 8,
+        "country": "USA",
+        "name": "Haas",
+        "budget": 120000000,
+        "description": "8ème du championnat de l'année 2022 (37 pts). Voiture rapide mais pas beaucoup de fiabilité. On notera la première pôle de Magnussen!",
+        "photo": "HaasF1"
+    },
+    {
+        "id": 9,
+        "country": "Italie",
+        "name": "Alpha Tauri",
+        "budget": 150000000,
+        "description": "9ème du championnat de l'année 2022 (35 pts). ",
+        "photo": "AlphaTauriF1"
+    },
+    {
+        "id": 10,
+        "country": "Royaume-Uni",
+        "name": "Williams",
+        "budget": 110000000,
+        "description": "10ème du championnat de l'année 2022 (8 pts). Un Latifi catastrophique qui n'avait rien à faire en F1 à part casser des voitures et rentrer dans les autres. Mais un Albon combattif!",
+        "photo": "WilliamsF1"
+    }
+]
